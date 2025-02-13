@@ -40,3 +40,4 @@ date: 2025-02-12
     </tbody>
 </table>
 <p>实验筛选包含以下内容：'ECO:0000269','PubMed','ECO:0007744'</p>
+<a href='https://www.ebi.ac.uk/QuickGO/' target="_blank">uniprot证据标注查询网页</a>
