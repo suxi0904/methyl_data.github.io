@@ -25,6 +25,9 @@
             padding-left: 60px;
             padding-right: 60px;
         }
+        .table-container {
+        padding-right: 15%; /* 为表格留出右侧空间 */
+    }
         /* 图片样式 */
 .floating-images {
     position: fixed; 
@@ -57,7 +60,8 @@
     </ul>
 
     <h2>数据集下载链接</h2>
-    <table border="1">
+    <div class="table-container">
+    <table>
     <thead>
         <tr>
             <th>数据集</th>
@@ -98,6 +102,7 @@
         </tr>
     </tfoot>
 </table>
+ </div>
     <p>最后更新时间：2025-02-12</p>
     <p>上次更新说明：</p>
     <a href="https://suxi0904.github.io/methyl_data.github.io/2025/02/12/data_updata.html" target="_blank">2025/02/12/updata</a>
